@@ -1,4 +1,4 @@
-import { hino } from "./hino";
+import { hino } from "./componentes/hino";
 
 export default function Main(){
 
