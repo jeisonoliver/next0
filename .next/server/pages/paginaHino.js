@@ -4,10 +4,10 @@ exports.id = "pages/paginaHino";
 exports.ids = ["pages/paginaHino"];
 exports.modules = {
 
-/***/ "./pages/componentes/hino.js":
-/*!***********************************!*\
-  !*** ./pages/componentes/hino.js ***!
-  \***********************************/
+/***/ "./componentes/hino.js":
+/*!*****************************!*\
+  !*** ./componentes/hino.js ***!
+  \*****************************/
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17,7 +17,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\HP\\next0\\pages\\componentes\\hino.js";
+var _jsxFileName = "C:\\Users\\HP\\next0\\componentes\\hino.js";
 
 var __jsx = (react__WEBPACK_IMPORTED_MODULE_0___default().createElement);
 function hino() {
@@ -46,7 +46,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _componentes_hino__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./componentes/hino */ "./pages/componentes/hino.js");
+/* harmony import */ var _componentes_hino__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../componentes/hino */ "./componentes/hino.js");
 var _jsxFileName = "C:\\Users\\HP\\next0\\pages\\paginaHino.js";
 
 var __jsx = (react__WEBPACK_IMPORTED_MODULE_0___default().createElement);
@@ -100,4 +100,4 @@ var __webpack_exports__ = (__webpack_exec__("./pages/paginaHino.js"));
 module.exports = __webpack_exports__;
 
 })();
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9jb21wb25lbnRlcy9oaW5vLmpzIiwid2VicGFjazovLy8uL3BhZ2VzL3BhZ2luYUhpbm8uanMiLCJ3ZWJwYWNrOi8vL2V4dGVybmFsIFwicmVhY3RcIiJdLCJuYW1lcyI6WyJoaW5vIiwiTWFpbiJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFPLFNBQVNBLElBQVQsR0FBZTtBQUVsQixTQUVHO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsNE1BRkg7QUFhRixDOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUNmRjtBQUVlLFNBQVNDLElBQVQsR0FBZTtBQUUxQixTQUVHO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FFRztBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHdCQUZILEVBSUc7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUpILENBRkg7QUFZRixDOzs7Ozs7Ozs7OztBQ2hCRixtQyIsImZpbGUiOiJwYWdlcy9wYWdpbmFIaW5vLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGZ1bmN0aW9uIGhpbm8oKXtcclxuXHJcbiAgICByZXR1cm4gKFxyXG4gXHJcbiAgICAgICA8aDI+VW1hIHZleiBGbGFtZW5nb1xyXG4gICAgICAgU2VtcHJlIEZsYW1lbmdvXHJcbiAgICAgICBGbGFtZW5nbyBzZW1wcmUsIGV1IGhlaSBkZSBzZXJcclxuICAgICAgIMOJIG8gbWV1IG1haW9yIHByYXplciB2w6otbG8gYnJpbGhhclxyXG4gICAgICAgU2VqYSBuYSB0ZXJyYSwgc2VqYSBubyBtYXJcclxuICAgICAgIFZlbmNlciwgdmVuY2VyLCB2ZW5jZXIhXHJcbiAgICAgICBVbWEgdmV6IEZsYW1lbmdvXHJcbiAgICAgICBGbGFtZW5nbyBhdMOpIG1vcnJlciE8L2gyPlxyXG4gXHJcbiAgICApXHJcbiBcclxuIH0iLCJpbXBvcnQgeyBoaW5vIH0gZnJvbSBcIi4vY29tcG9uZW50ZXMvaGlub1wiO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTWFpbigpe1xyXG5cclxuICAgIHJldHVybiAoXHJcbiBcclxuICAgICAgIDxkaXY+XHJcbiBcclxuICAgICAgICAgIDxoMT5IaW5vIGRvIEZsYW1lbmdvPC9oMT5cclxuIFxyXG4gICAgICAgICAgPGhpbm8vPlxyXG4gXHJcbiAgICAgICA8L2Rpdj5cclxuIFxyXG4gICAgKVxyXG4gXHJcbiB9IiwibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwicmVhY3RcIik7OyJdLCJzb3VyY2VSb290IjoiIn0=
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRlcy9oaW5vLmpzIiwid2VicGFjazovLy8uL3BhZ2VzL3BhZ2luYUhpbm8uanMiLCJ3ZWJwYWNrOi8vL2V4dGVybmFsIFwicmVhY3RcIiJdLCJuYW1lcyI6WyJoaW5vIiwiTWFpbiJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFPLFNBQVNBLElBQVQsR0FBZTtBQUVsQixTQUVHO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsNE1BRkg7QUFhRixDOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUNmRjtBQUVlLFNBQVNDLElBQVQsR0FBZTtBQUUxQixTQUVHO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FFRztBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHdCQUZILEVBSUc7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxJQUpILENBRkg7QUFZRixDOzs7Ozs7Ozs7OztBQ2hCRixtQyIsImZpbGUiOiJwYWdlcy9wYWdpbmFIaW5vLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGZ1bmN0aW9uIGhpbm8oKXtcclxuXHJcbiAgICByZXR1cm4gKFxyXG4gXHJcbiAgICAgICA8aDI+VW1hIHZleiBGbGFtZW5nb1xyXG4gICAgICAgU2VtcHJlIEZsYW1lbmdvXHJcbiAgICAgICBGbGFtZW5nbyBzZW1wcmUsIGV1IGhlaSBkZSBzZXJcclxuICAgICAgIMOJIG8gbWV1IG1haW9yIHByYXplciB2w6otbG8gYnJpbGhhclxyXG4gICAgICAgU2VqYSBuYSB0ZXJyYSwgc2VqYSBubyBtYXJcclxuICAgICAgIFZlbmNlciwgdmVuY2VyLCB2ZW5jZXIhXHJcbiAgICAgICBVbWEgdmV6IEZsYW1lbmdvXHJcbiAgICAgICBGbGFtZW5nbyBhdMOpIG1vcnJlciE8L2gyPlxyXG4gXHJcbiAgICApXHJcbiBcclxuIH0iLCJpbXBvcnQgeyBoaW5vIH0gZnJvbSBcIi4uL2NvbXBvbmVudGVzL2hpbm9cIjtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE1haW4oKXtcclxuXHJcbiAgICByZXR1cm4gKFxyXG4gXHJcbiAgICAgICA8ZGl2PlxyXG4gXHJcbiAgICAgICAgICA8aDE+SGlubyBkbyBGbGFtZW5nbzwvaDE+XHJcbiBcclxuICAgICAgICAgIDxoaW5vLz5cclxuIFxyXG4gICAgICAgPC9kaXY+XHJcbiBcclxuICAgIClcclxuIFxyXG4gfSIsIm1vZHVsZS5leHBvcnRzID0gcmVxdWlyZShcInJlYWN0XCIpOzsiXSwic291cmNlUm9vdCI6IiJ9

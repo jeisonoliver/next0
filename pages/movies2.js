@@ -42,7 +42,7 @@ export default function Movies2(){
 
                 {data.Search.map((m) =>
                 <tr>
-                    <td>{m.Title}</td>
+                    <td> <a href="#" onclick="orderTitle()"> {m.Title} </a></td>
                     <td>{m.Year}</td>
                 </tr>
                 )}
